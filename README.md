@@ -18,6 +18,8 @@
 
 # Install / Import
 
+this is a new version
+
 ```bash
 $ npm install --save redesigned-octo-bassoon
 ```
